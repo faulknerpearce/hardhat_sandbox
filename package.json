@@ -1,0 +1,19 @@
+{
+  "name": "hardhat_sandbox",
+  "version": "1.0.0",
+  "description": "This Hardhat Sandbox is a development environment intended for deploying smart contracts, running unit tests, and experimenting with various Ethereum-related functionalities.  It provides an easy-to-use setup for blockchain development and testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.18"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
